@@ -1,1 +1,1 @@
-Learning git is fun
+Learning git is fun but challenging.
